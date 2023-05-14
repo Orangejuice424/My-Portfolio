@@ -1,0 +1,16 @@
+#Apps{
+    background-color: rgb(32, 141, 160);
+}
+body{
+    text-align:center;
+}
+#games{
+    background-color:cadetblue;
+}
+#chatbot{
+    background-color: crimson;
+}
+#Mycoolgames{
+    background-color:green;
+    padding:10px;
+}
